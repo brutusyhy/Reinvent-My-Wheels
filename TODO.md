@@ -9,3 +9,6 @@
     ~~a. Implement basic operations of a Doubly Linked List~~
     b. Add more comprehensive tests
     c. Add support for iterators
+
+4. UniquePointer(C++):
+    ~~a. Implemented a basic smartpointer with unique ownership.~~
